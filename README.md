@@ -1,4 +1,4 @@
-hprof remap
+hprof remap [![CircleCI](https://circleci.com/gh/fraenkelc/hprof-remap.svg?style=svg&circle-token=5ef6c2316aa405dab1bfaeaaf1d1c322e6d09173)](https://circleci.com/gh/fraenkelc/hprof-remap)
 ============
 
 hprof-remap is a changes fields and method names in hprof files from srg names to mcp names. 
