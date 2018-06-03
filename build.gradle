@@ -31,3 +31,11 @@ jar {
         attributes 'Implementation-Version': "$version"
     }
 }
+
+distributions {
+    main {
+        contents {
+            from(fileTree(projectDir).include('README.md', 'LICENSE'))
+        }
+    }
+}
