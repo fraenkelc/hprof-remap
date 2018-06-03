@@ -1,0 +1,4 @@
+[submodule "hprof-tools"]
+	path = hprof-tools
+	url = https://github.com/badoo/hprof-tools.git
+	shallow = true
